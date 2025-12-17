@@ -25,3 +25,8 @@
 # RESULT AND DESCRIPTION: The developed application successfully displays real-time stock prices, historical price trends, and market movement analysis in graphical form. Users can clearly understand stock performance through line graphs and pie charts. The inclusion of live news enhances market awareness and decision-making. The interface is visually appealing and easy to navigate. The application responds quickly to user inputs and handles errors gracefully. Overall, the project achieves its goal of simplifying stock market analysis and provides useful insights in a user-friendly manner, making it suitable for educational and basic investment purposes.
 
 # OUTPUT: 
+![Image](https://github.com/user-attachments/assets/abbe61ee-459e-489a-bb79-78d15c70bcc1)
+
+![Image](https://github.com/user-attachments/assets/f999d8da-fe1c-41cc-bd69-c64625b028fe)
+
+![Image](https://github.com/user-attachments/assets/d824907b-8382-499a-92e0-7cc200ff5314)
